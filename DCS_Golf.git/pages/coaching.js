@@ -1,0 +1,1 @@
+export default function Coaching() { return <div className='p-8'>Coaching Categories</div>; }

@@ -1,0 +1,1 @@
+export default function Services() { return <div className='p-8'>Golf Services</div>; }
